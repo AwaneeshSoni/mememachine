@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mememachine/static/css/main.3596a7f8.css",
+    "main.js": "/mememachine/static/js/main.f67d9d0a.js",
+    "static/media/img.png": "/mememachine/static/media/img.bf6ca41123d604f929c6.png",
+    "index.html": "/mememachine/index.html",
+    "main.3596a7f8.css.map": "/mememachine/static/css/main.3596a7f8.css.map",
+    "main.f67d9d0a.js.map": "/mememachine/static/js/main.f67d9d0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3596a7f8.css",
+    "static/js/main.f67d9d0a.js"
+  ]
+}
