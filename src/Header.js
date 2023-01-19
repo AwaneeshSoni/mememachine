@@ -2,12 +2,12 @@ import React from "react"
 import img from "./img.png"
 import "../src/index.css"
 
-function Header () {
+function Header() {
     return (
-        <div>
-            <img src={img} />
-            <h1>Meme Machine</h1>
-            <h4>by Awaneesh Soni</h4>
+        <div className="header">
+            <img src={img} className="logo"/>
+            <h1 className="header-text">Meme Machine</h1>
+            <h4 className="header-text2">by Awaneesh Soni</h4>
         </div>
     )
 }
